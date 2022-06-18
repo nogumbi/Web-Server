@@ -1,7 +1,7 @@
 public class Quote {
     private Integer id;
-    private String text;
     private String name;
+    private String text;
 
     public Integer getId() {
         return id;
